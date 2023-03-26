@@ -230,6 +230,8 @@ All Hackathon participants are free to work on any code. The rules regarding tha
   - In Yokohama
     - Oscar Gonzalez (oscar.gonzalezdedios@telefonica.com)
     - Daniel King (daniel@olddog.co.uk)
+    - Adrian Farrel, Emiko King - ODC
+    - Bo Wu, Qiufang Ma, Chong Feng – Huawei 
   - Remote participation
     - Lluis Gifre (lluis.gifre@cttc.es)
 - **Specifications**
